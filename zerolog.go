@@ -7,8 +7,8 @@ import (
 
 	"github.com/rs/zerolog"
 	zlog "github.com/rs/zerolog/log"
-	"github.com/yeencloud/logger"
-	LoggerDomain "github.com/yeencloud/logger/domain"
+	"github.com/yeencloud/lib-logger"
+	"github.com/yeencloud/lib-logger/domain"
 )
 
 type ZeroLogMiddleware struct {
