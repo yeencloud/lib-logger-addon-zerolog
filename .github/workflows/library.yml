@@ -9,4 +9,4 @@ on:
 
 jobs:
   test-and-lint:
-    uses: yeencloud/ci/.github/workflows/test.yml@main
+    uses: yeencloud/dpl-ci/.github/workflows/test.yml@main

@@ -1,4 +1,4 @@
-CI_RAW_URL = https://raw.githubusercontent.com/yeencloud/ci/refs/heads/main
+CI_RAW_URL = https://raw.githubusercontent.com/yeencloud/dpl-ci/refs/heads/main
 
 update:
 	curl -O $(CI_RAW_URL)/makefile \

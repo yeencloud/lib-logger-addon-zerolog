@@ -1,4 +1,4 @@
-module github.com/yeencloud/tpl-library
+module github.com/yeencloud/lib-logger-addon-zerolog
 
 go 1.23
 
