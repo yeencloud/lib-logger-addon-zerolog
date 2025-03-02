@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/rs/zerolog v1.33.0
-	github.com/yeencloud/logger v0.0.0-20250302020305-f07f52ec8da8
+	github.com/yeencloud/logger v0.1.0
 )
 
 require (
